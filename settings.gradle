@@ -1,0 +1,2 @@
+rootProject.name='LearnApp'
+include ':app', ':barcode_scanner_library_v2.5.1.0', ':API3_LIB-release-2.0.1.27'
